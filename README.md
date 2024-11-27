@@ -1,2 +1,2 @@
-# CNC Machine Simulation with Feedback Control
+# CNC Machine Simulation with Feedback and Feedforward Control
 This project involves designing and simulating a 2D CNC laser cutting machine using MATLAB and Simulink. The system integrates DC motor modeling with a cascade feedback control structure, utilizing Proportional (P) and Proportional-Integral (PI) controllers to achieve precise position and velocity control. Key features include feedforward compensation for improved system responsiveness and stability under parameter uncertainties. The simulation demonstrates accurate trajectory following for cutting shapes like squares and circles with a maximum position error of less than 2mm, showcasing the application of advanced control techniques in industrial automation.
